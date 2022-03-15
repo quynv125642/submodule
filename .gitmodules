@@ -1,0 +1,15 @@
+[submodule "roles/sshpolicy"]
+	path = roles/sshpolicy
+	url = https://github.com/quynv125642/sshpolicy
+[submodule "roles/sshnotify"]
+	path = roles/sshnotify
+	url = https://github.com/quynv125642/sshnotify
+[submodule "roles/sshusers-nosshkey"]
+	path = roles/sshusers-nosshkey
+	url = https://github.com/quynv125642/sshusers-nosshkey
+[submodule "roles/basicfirewall"]
+	path = roles/basicfirewall
+	url = https://github.com/quynv125642/basicfirewall
+[submodule "roles/utilitytools"]
+	path = roles/utilitytools
+	url = https://github.com/quynv125642/utilitytools
